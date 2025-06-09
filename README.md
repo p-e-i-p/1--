@@ -1,5 +1,8 @@
-MongoDB+Vue3+Node
+Vue+Pinia+vue-router+vite+Element Plus+typescript
+Node+mongodb
+学生管理系统
 
-sms启动Node
+sms启动 install 之后 node app
 
-先npm install
+vite-project 先 install npm run dev 启动
+
